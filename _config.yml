@@ -9,8 +9,7 @@ logo_url: svg/min/logo.svg
 hero: 
     hero_img: hero.jpg
     hero_title: Glassbox Salon
-    hero_description: We invite you to come enjoy and experience a comfortable stress free environment with our team. Our Talented professionals are dedicated to providing outstanding customer service in a relaxing, modern atmosphere. We cater to all salon and spa services and strive to ensure that when our clients leave, they are looking forward to seeing us again. Here at Glassbox Salon we thrive on hospitality and make you our priority. We are committed to giving back to our community by providing products that are sustainable to us and the earth. We look forward to meeting you..
-
+    hero_description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 # Contact form
 api_token: # Enter API token here
 
