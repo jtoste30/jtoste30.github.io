@@ -1,6 +1,6 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: Glassbox Salon
+description: "We invite you to come enjoy and experience a comfortable stress free environment with our team. Our Talented professionals are dedicated to providing outstanding customer service in a relaxing, modern atmosphere. We cater to all salon and spa services and strive to ensure that when our clients leave, they are looking forward to seeing us again. Here at Glassbox Salon we thrive on hospitality and make you our priority. We are committed to giving back to our community by providing products that are sustainable to us and the earth. We look forward to meeting you."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
