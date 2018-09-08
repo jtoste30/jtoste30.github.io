@@ -17,7 +17,7 @@ api_token: # Enter API token here
 contact:
     phone: 805 773-6081
     email: contact@yoursite.com
-    address: 15 5 Cities Dr, <br> Pismo Beach, CA 93449
+    address: 515 5 Cities Dr, <br> Pismo Beach, CA 93449
 
 # Opening hours
 monday_friday: 9:00 – 18:00
